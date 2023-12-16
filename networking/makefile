@@ -1,4 +1,4 @@
-flags = -g -Wall -Wextra -DBlackWhite -O2 -std=c++20
+flags = -g -Wall -Wextra -Wshadow -pedantic -DBlackWhite -O2 -std=c++20
 linkers_flags = -lws2_32
 lib_path = ""
 linkers_path = ""
