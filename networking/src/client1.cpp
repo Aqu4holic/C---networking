@@ -1,3 +1,11 @@
+// author: blackwhite
+// file: client1.cpp
+// project: networking
+// created: 2:50:58 am - 16/12/2023
+// -----
+// last modified: 5:01:08 am - 16/12/2023
+// -----
+
 #include "defines.hpp"
 
 #include <iostream>
